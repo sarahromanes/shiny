@@ -1,2 +1,2 @@
 # shiny
-A repo for shiny code for apps hosted at https://sarahromanes.shinyapps.io :star:
+A repo for shiny code for apps hosted at https://sarahromanes.shinyapps.io/folderofshinyapp :star:
